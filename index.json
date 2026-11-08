@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "scitldr",
+  "versions": [
+    {
+      "commit": "5ccad9c00a60ad75c9e04abf7f27d0f53f983b20",
+      "tag": "",
+      "parsed_at": "2026-11-08T16:19:56.395271+00:00"
+    }
+  ]
+}
